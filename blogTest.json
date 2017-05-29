@@ -1,8 +1,13 @@
 {
 	"post": [
 		{
+			"name": "Test",
+			"description": "Edit properties in Markdown and display them with HTML. Uses the popular [Showdown](http://showdownjs.github.io/demo/) library.",
+			"tag": []
+		},
+		{
 			"name": "This is another test",
-			"description": "## Test\n\n* 1\n* 2",
+			"description": "## Test\n\n* 1\n* 2\n",
 			"tag": [
 				"Test",
 				"Test"
