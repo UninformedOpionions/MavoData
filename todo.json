@@ -3,17 +3,6 @@
 		{
 			"done": false,
 			"taskTitle": "Do stuff"
-		},
-		{
-			"done": false,
-			"taskTitle": "Tests"
-		},
-		{
-			"done": false,
-			"taskTitle": "Another Test"
-		},
-		{
-			"done": false
 		}
 	]
 }
