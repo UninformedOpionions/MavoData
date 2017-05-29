@@ -1,6 +1,14 @@
 {
 	"post": [
 		{
+			"name": "This is another test",
+			"description": "## Test\n\n* 1\n* 2",
+			"tag": [
+				"Test",
+				"Test"
+			]
+		},
+		{
 			"name": "Whataqua",
 			"description": "## Heading\n\n* 1\n* 2\n* 3",
 			"tag": [
